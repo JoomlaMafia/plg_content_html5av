@@ -1,6 +1,6 @@
 # plg_content_html5av
 
-Joomla content plugin to easily insert HTML5 autio and video elements
+Joomla content plugin to easily insert HTML5 audio and video elements
 
 ## Compatibility
 
